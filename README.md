@@ -11,7 +11,7 @@ Chat App is a real-time chat application powered by OpenAI's GPT-3 language mode
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/chat-app.git`
+1. Clone the repository: `git clone https://github.com/jeromedawson/chat-app.git`
 2. Navigate to the project directory: `cd chat-app`
 3. Install the dependencies: `npm install`
 
